@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **JavaScript, TypeScript, React and TDD**
 
-- 📫 How to reach me **nilushipra@gmail.com**
+- 📫 How to reach me **nilushiayeshika91@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
